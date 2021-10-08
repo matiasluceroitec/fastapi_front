@@ -5,4 +5,4 @@ sqlalchemy
 pymysql
 jinja2
 aiofiles
-request
+requests==2.26.0
